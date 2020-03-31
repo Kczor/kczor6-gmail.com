@@ -1,0 +1,17 @@
+name: KEssentials
+version: 1.0
+main: ksessentials.Main
+authors: [Kczor, naddereG]
+
+description: Ten plugin daje ci wiele mozliwosci modyfikacji zwyklych oraz autorskich rzeczy stworzonych nas
+
+website: https://www.youtube.com/channel/UCkftNizbJ08sIBujBT9oicA?view_as=subscriber
+
+commands:
+ chat: 
+ pomoc:
+ gamemode:
+ heal:
+ kontakt:
+ fly:
+ god:
